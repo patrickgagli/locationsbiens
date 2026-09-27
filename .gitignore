@@ -1,0 +1,43 @@
+# Pascal compiler output
+*.exe
+*.o
+*.obj
+*.ppu
+*.ppl
+*.compiled
+*.dll
+*.so
+*.dylib
+
+# Lazarus IDE files
+*.bak
+*.~*
+lib/
+backup/
+units/
+
+# MySQL dump files
+*.dump
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+venv/
+__pycache__/
+
+# mkdocs documentation
+/docs
+/site
+labo/
+labo.md
+resources
